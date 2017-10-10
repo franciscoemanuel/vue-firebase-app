@@ -1,4 +1,7 @@
-# vue-firebase-app - (https://vuejs-firebaseapp.firebaseapp.com)
+# vue-firebase-app
+
+https://vuejs-firebaseapp.firebaseapp.com
+
 Aplicação para fins de aprendizado, utilizando: Vue.js, Vuex e firebase
 
 ## Build Setup
